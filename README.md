@@ -43,6 +43,3 @@
   <li>Implement different difficulty levels for the AI.</li>
   <li>Include animations for a more dynamic game experience.</li>
 </ul>
-
-<h2>License</h2>
-<p>This project is open-source and available under the <a href="LICENSE">MIT License</a>.</p>
