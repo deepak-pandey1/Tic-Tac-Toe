@@ -3,7 +3,7 @@
 
 <h1>Tic Tac Toe Game</h1>
 
-<p>This project is a simple and interactive Tic Tac Toe game built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. The game allows two players to take turns marking the spaces in a 3x3 grid. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.</p>
+<p>This project is a simple and interactive Tic Tac Toe Game built using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. The game allows two players to take turns marking the spaces in a 3x3 grid. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins the game.</p>
 
 <h2>Features</h2>
 <ul>
